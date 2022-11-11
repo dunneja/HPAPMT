@@ -1,0 +1,6 @@
+PySimpleGUI
+clipboard
+configparser
+datetime
+sys
+subprocess
