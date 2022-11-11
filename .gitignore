@@ -1,0 +1,10 @@
+# Files
+*.ico
+
+# Directories
+__pycache__
+logs/
+venv/
+setup/
+modules/__pycache__
+.vscode/
