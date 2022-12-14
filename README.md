@@ -72,6 +72,3 @@ The project dependencies as are follows;
 * Ensure you create a template printer in HP Advance configured with the settings you want all printers to follow. 
 * Ensure you reference the template printer in HP Advance in the printers.csv file as shown in the example. 
 * This tool is not an offical HP offering, it was developed as part of my personal education / development.
-
-## Contact
-Created by James Dunne - <james.dunne1@gmail.com>
