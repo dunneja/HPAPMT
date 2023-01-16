@@ -56,15 +56,22 @@ The project dependencies as are follows;
     - Ensure Python is added to environment SYS Path.
 
     - Install deps from the provided requirements.txt file as per below;
- 
-        - pip3 install -r requirements.txt
+        
+        ```
+        pip3 install -r requirements.txt
+        ```
 
 ## Usage
 * Running the project from source files;
 
     - Ensure all Dependencies are installed.
     - Populate the CSV file as per the example entry provided. 
-    - Run 'python main.py'
+    - Run 
+        
+        ```
+        python main.py
+        ```
+         
     - Check Output dir for output and logs for errors. 
 
 ## Notes
