@@ -71,7 +71,6 @@ The project dependencies as are follows;
         ```
         python main.py
         ```
-         
     - Check Output dir for output and logs for errors. 
 
 ## Notes
